@@ -7,4 +7,5 @@ def array_with_two_elements
 end
 
 def my_first_element
-  
+  @taylor_swift = [0]
+end
