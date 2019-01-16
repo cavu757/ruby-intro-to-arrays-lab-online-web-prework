@@ -27,5 +27,5 @@ def last_element_with_array_methods (taylor_swift)
 end
 
 def length_of_array (taylor_swift)
-  my_first_element_with_array_methods = taylor_swift.first
+  length_of_array = taylor_swift.length
 end
