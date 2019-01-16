@@ -17,3 +17,8 @@ end
 def last_element (taylor_swift)
   my_first_element = taylor_swift [-1]
 end
+
+def first_element_with_array_methods (taylor_swift)
+  my_first_element_with_array_methods = taylor_swift.first
+end
+
