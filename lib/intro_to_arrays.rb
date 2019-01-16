@@ -7,5 +7,5 @@ def array_with_two_elements
 end
 
 def first_element
-  @taylor_swift.first 
+  my_first_element = @taylor_swift.first 
 end
